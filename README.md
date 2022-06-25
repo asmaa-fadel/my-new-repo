@@ -1,1 +1,1 @@
-![alt text] (labtop_top.png)
+![alt text](labtop_top)
